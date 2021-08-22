@@ -3,6 +3,7 @@ com/example/Restdemo/datalayer/entities/trans/Child.class
 com/example/Restdemo/datalayer/entities/persistent/TesthibEntity.class
 com/example/Restdemo/datalayer/entities/persistent/UsernEntity.class
 com/example/Restdemo/presentation/rest/HelloResource.class
+com/example/Restdemo/services/FamilyProcessor_1.class
 com/example/Restdemo/services/HibernateEmployeeProcessor.class
 com/example/Restdemo/database/DatabaseConnection.class
 com/example/Restdemo/presentation/rest/SalamJsonResource.class
